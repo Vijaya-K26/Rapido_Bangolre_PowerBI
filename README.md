@@ -3,7 +3,7 @@
 
  ## Source Data  
  
- - **Data Source:** Rapido ride dataset (June–August 2024) from Kaggle.
+- **Data Source:** Rapido ride dataset (June–August 2024) from Kaggle.
 - **Data Cleaning & Preparation:**  Power Query Editor (PQE) and DAX.
 - **Data Visualization:**  Microsoft Power BI
 
@@ -21,18 +21,20 @@
 10. What is the overall commuting pattern in Bangalore based on the data?
 
 ## Summary of Insights
-1. Most rides take place at night, followed by mornings, while afternoons and evenings see fewer trips.
-2. July recorded the highest ride charges and travel distances, indicating peak seasonal demand.
-3. Average fares stay consistent across months, usually in the range of ₹530–₹570.
-4. Digital wallets like Paytm, GPay, QR Scan, and Amazon Pay are equally popular, replacing cash usage.
-5. Trips are largely short intra-city rides, showing Rapido’s role in daily commutes.
-6. City rides generally take short to medium duration, while airport or outskirts trips require much longer.
-7. About 85–90% of rides are completed, with only a small share cancelled.
-8. Fare patterns remain steady month to month, reflecting predictable pricing.
-9. Commuting demand is densest in central Bangalore and residential zones during peak hours.
-10. Longer trips are mainly to the airport, IT corridors, or outer city destinations.
-11. Ride patterns are stable and predictable, helping in better planning and targeted promotions.
+- Most rides happen at night and mornings; afternoons are quieter.  
+- July saw the highest fares and longest distances.  
+- Fares stay steady around ₹530–₹570 across months.  
+- Digital wallets (Paytm, GPay, QR, Amazon Pay) dominate over cash.  
+- Majority are short city rides; long trips are fewer.  
+- City trips take ~15–30 mins, outskirts/airport 45–60+ mins.  
+- 85–90% rides complete; few get cancelled.  
+- Pricing is consistent with minimal monthly changes.  
+- Peak demand clusters in central, IT, and residential areas.  
+- Longer rides connect to airports, IT corridors, or outskirts.  
+- Overall, ride patterns are stable and predictable.  
 
 ## Constraints
-Most rides take place at night, followed by mornings, while afternoons and evenings see fewer trips.
+- Gender-based insights are missing, and since night rides are most demanded, **women’s safety and comfort remain key concerns**.
+- Cancellations lack detailed cause breakdown (driver, rider, or system issues).
+- Seasonal and traffic impacts not separately captured. 
    
